@@ -1,1 +1,0 @@
-print("Jana and her easiness")

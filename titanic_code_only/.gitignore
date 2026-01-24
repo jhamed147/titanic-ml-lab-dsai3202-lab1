@@ -1,0 +1,12 @@
+
+data/
+
+
+outputs/
+
+models/
+
+
+titanic-ml-env/
+__pycache__/
+*.pyc
